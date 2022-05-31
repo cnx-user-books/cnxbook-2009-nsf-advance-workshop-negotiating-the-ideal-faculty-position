@@ -1,0 +1,154 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Teaching Your First Course: Balancing Teaching and Research</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m15816</md:content-id>
+  <md:title>Teaching Your First Course: Balancing Teaching and Research</md:title>
+  <md:abstract>This presentation was compiled by Richard Baraniuk (ELEC), Mike Gustin (BCB), Jane Grande-Allen (BIOE), and Yousif Shamoo (BCB).</md:abstract>
+  <md:uuid>3ffe96f5-2179-4932-8d86-fdba30ba30e1</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-722593925511">
+      <title>Discussion Topics</title>
+      <para id="id9293020">How to be a good teacher</para>
+      <para id="id11491842">How to balance teaching and getting a research program off the ground</para>
+    </section>
+    <section id="id-579896674292">
+      <title>Why do we teach?</title>
+      <para id="id10637216">So that people <emphasis>learn</emphasis></para>
+    </section>
+    <section id="id-58604996131">
+      <title>Who do we teach?</title>
+      <para id="id11593609">students</para>
+      <para id="id11154124">colleagues</para>
+      <para id="id11133834">your chair, your dean</para>
+      <para id="id11133838">the public</para>
+      <para id="id3381045">program managers</para>
+      <para id="id10610160">patent office</para>
+      <para id="id10522566">…</para>
+    </section>
+    <section id="id-640899325386">
+      <title>Teaching Tips – Richard Felder</title>
+      <section id="id-303603305882">
+        <title>Developing a good course takes time</title>
+        <para id="id9387873">learn good time management</para>
+      </section>
+      <section id="id-783983824273">
+        <title>What students learn &lt; What you teach</title>
+        <para id="id11596834">don’t just try to “<emphasis>cover</emphasis>” the material</para>
+      </section>
+      <section id="id-564030840167">
+        <title>Learning styles</title>
+        <para id="id11508520">don’t “teach yourself”</para>
+      </section>
+      <section id="id-232226201298">
+        <title>Active learning</title>
+        <para id="id5044232">“I hear, I forget;</para>
+        <para id="id10008786">I see, I remember;</para>
+        <para id="id11110757">I do, I understand”</para>
+        <para id="id8046656">2 minute paper</para>
+      </section>
+    </section>
+    <section id="id-781126485875">
+      <title>Teaching Large Classes – Mike Gustin</title>
+      <section id="id-438348478452">
+        <title>Large class teaching: tips</title>
+        <para id="id7434700">Outline of class topics on board</para>
+        <para id="id11647259">Avoid powerpoint where possible</para>
+        <para id="id11647263">1-2 sec pause between points</para>
+        <para id="id9336792">Be intense</para>
+        <para id="id11634666">Wait for questions, step into class</para>
+        <para id="id11505364">Take a break in the middle</para>
+      </section>
+      <section id="id-573511631733">
+        <title>Large class teaching: issues</title>
+        <para id="id3167819">Break into smaller groups?</para>
+        <para id="id3167824">Clickers?</para>
+        <para id="id11552345">Quiz at start of class?</para>
+        <para id="id10213967">Notes on line?</para>
+      </section>
+      <section id="id-475757756807">
+        <title>Large class teaching: testing</title>
+        <para id="id3374238">Exam topics predictable, exact question not</para>
+        <para id="id4358584">Multiple choice plus short essay (best 5 of 7)</para>
+        <para id="id9665663">Curve each exam, give letter grades</para>
+        <para id="id9665667">Mean ± SD, mean = lowest point of B range;</para>
+        <para id="id3940437">each SD one full grade (B-, B, B+)</para>
+      </section>
+    </section>
+    <section id="id-641648259073">
+      <title>Your First Year Teaching – Jane Grande-Allen</title>
+      <list id="id9379544" list-type="bulleted">
+        <item>Plan 6-8 hours of prep time per lecture</item>
+        <item>Don’t expect perfection</item>
+        <item>Do get feedback throughout the semester</item>
+        <item>Don’t expect eager listening faces</item>
+        <item>Do make the time to get to know your students</item>
+      </list>
+      <para id="id8579623">or at least learn names</para>
+      <para id="id8579627">Assignment tips</para>
+      <list id="id3384046" list-type="bulleted">
+        <item>Textbooks have typos</item>
+        <item>Work the exams yourself</item>
+        <item>Extra credit: not all that</item>
+      </list>
+      <section id="id-93421824227">
+        <title>After: Recap and Revise</title>
+        <list id="id11453496" list-type="bulleted">
+          <item>Fix the lectures that needed the most work irst</item>
+          <item>Every few lectures, work in up to date data to keep things current</item>
+          <item>Get a mentor and meet monthly. Go over how EVERYTHING has been for you</item>
+          <item>Do attend teaching workshops</item>
+        </list>
+      </section>
+      <section id="id-312425178267">
+        <title>Evaluations</title>
+        <list id="id9826446" list-type="bulleted">
+          <item>Don’t take the evaluations too harshly</item>
+          <item>“This professor actually discouraged independent thought…”</item>
+          <item>“Dr. Grande-Allen is the most fair &amp; considerate teacher I’ve had at Rice…”</item>
+          <item>“Not enough engineering – too much biology”</item>
+          <item>“The name of the course should surely be changed to Mechanical Properties of ECM because little or no chemistry or biology was discussed”</item>
+        </list>
+      </section>
+      <section id="id-399288041703">
+        <title>Time Management / Balance</title>
+        <list id="id9355503" list-type="bulleted">
+          <item>Set office hours and keep to them</item>
+          <item>Give the same course lecture you gave last year</item>
+          <item>Don’t say yes to every undergrad that wants to work with you</item>
+          <item>Focus your time on learning what you need for the research you will be strongest at</item>
+          <item>Do early<list id="id9327060" list-type="bulleted"><item>Write IRB and IACUC</item><item>Attend regional training seminars by NIH and NSF</item><item>Sign up for grants mailing lists</item></list></item>
+        </list>
+      </section>
+      <section id="id-716554968575">
+        <title>Maintain Perspective</title>
+        <list id="id3596202" list-type="bulleted">
+          <item>Get a mentor and meet monthly!</item>
+          <item>Colleagues, other young faculty</item>
+          <item>Get to know some people and faculty outside the department</item>
+          <item>Read <cite><cite-title>At the Helm</cite-title></cite></item>
+          <item>Check out a few blogs of other women in this position</item>
+        </list>
+      </section>
+      <section id="id-972117963644">
+        <title>Points for Discussion</title>
+        <list id="id5202855" list-type="bulleted">
+          <item>How to deal with absent or failing students</item>
+          <item>The students are not like you were/are</item>
+          <item>Should you recycle quizzes/exams?</item>
+          <item>How accommodating should you be to student requests?</item>
+          <item>Where did the day go? Protecting your time</item>
+          <item>What is important and not important?</item>
+        </list>
+      </section>
+    </section>
+    <section id="id-490362907639">
+      <title>Compiled/Presented by</title>
+      <para id="id10197164">Richard Baraniuk (ELEC) </para>
+      <para id="id10197169">Mike Gustin (BCB)</para>
+      <para id="id10489876">Jane Grande-Allen (BIOE) </para>
+      <para id="id11389143">Yousif Shamoo (BCB)</para>
+    </section>
+  </content>
+</document>
